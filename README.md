@@ -8,14 +8,19 @@ Home_Sales.ipynb
 # Home_Sales
 
 The time taken for run the query 6 is 0.69 seconds
+
 6. A query is written that returns the view rating for the average price for homes that are greater than or equal to $350,000, rounded to two decimal places. (The output shows the run time for this query.) 
 
 
+
 The time taken to run query 8 is 0.38 secounds 
+
 8.The query from step 6 is run on the cached temporary table, and the run time is computed. 
 
 
+
 The time taken to run query 11 is 1.049 secounds 
+
 11. The query from step 6 is run on the parquet temporary table, and the run time is computed. 
 
 
